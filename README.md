@@ -6,7 +6,7 @@ In this we i've used the Term Frequency - Inverse Document Frequency to create v
 
 # Assignment Solution
 
-[CSC202A.pdf](../blob/master/CSC202A.pdf)
+[CSC202A.pdf](CSC202A.pdf)
 
 # Usage
 
