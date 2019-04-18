@@ -10,6 +10,14 @@ In this we i've used the Term Frequency - Inverse Document Frequency to create v
 
 # Usage
 
+To create the executable:
+
+```
+make
+```
+
+Usage:
+
 ```
 ./pcheck
 
